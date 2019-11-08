@@ -17,7 +17,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">  
         <img src="img/hand_AI.png" alt="hand_AI" class="img-fluid" width="50px" height="15px">
-        <span class="navbar-brand text-info ml-2 mr-5" href="#">MovieStream</span>
+        <span class="navbar-brand text-warning ml-2 mr-5" href="#">MovieStream</span>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
